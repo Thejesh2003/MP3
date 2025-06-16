@@ -1,0 +1,1 @@
+Developed a tool to extract and edit metadata from MP3 audio files by parsing embedded ID3v1 and ID3v2 tags using bitwise operations for efficient byte-level access. Enabled retrieval and modification of key metadata fields such as title, artist, album, genre, and track number, facilitating organized music library management and broad compatibility across standard MP3 formats.
